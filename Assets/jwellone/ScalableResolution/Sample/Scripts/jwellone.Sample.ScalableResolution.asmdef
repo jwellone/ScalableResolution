@@ -1,0 +1,16 @@
+{
+    "name": "jwellone.Sample.ScalableResolution",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9bf8cbab6c54d4781b33e493420ec8ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
