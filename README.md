@@ -7,7 +7,7 @@
 
 
 # ScalableResolution
-Can use the function to dynamically control the resolution.
+Dynamically control the resolution.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
